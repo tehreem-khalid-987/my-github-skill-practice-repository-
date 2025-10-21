@@ -4,5 +4,5 @@
 ## About
 This is my first GitHub repository created in ICT Lab.
 ## Student Info
-- Name: [Your Name] - Program: BSIT
-- Date: October, 2025
+- Name: Tehreem Khalid - Program: BSIT
+- Date: October 21, 2025
